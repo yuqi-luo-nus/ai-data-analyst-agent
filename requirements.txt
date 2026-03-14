@@ -1,0 +1,7 @@
+duckdb
+pandas
+matplotlib
+python-dotenv
+openai
+fastapi
+uvicorn
